@@ -1,0 +1,14 @@
+name: SetZeusa
+version: 1.0.0
+main: pl.zeus.setzeusa.SetZeusa
+api-version: '1.21'
+author: Zeus
+description: Menu z legendarnym Setem Zeusa
+commands:
+  setzeusa:
+    description: Otwiera menu Seta Zeusa
+    usage: /setzeusa
+permissions:
+  setzeusa.use:
+    description: Pozwala otworzyc menu Seta Zeusa
+    default: true
